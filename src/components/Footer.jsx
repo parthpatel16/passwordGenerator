@@ -3,10 +3,10 @@ import React from "react";
 function Footer() {
   return (
     <footer className="fixed bottom-0 left-0 w-full bg-gray-900 py-6 text-center text-gray-400">
-      {/* Social Links */}
+      
       <div className="flex justify-center gap-6 mb-4">
         <a
-          href="https://github.com/"
+          href="https://github.com/parthpatel16"
           target="_blank"
           rel="noreferrer"
           className="hover:text-indigo-400"
@@ -14,7 +14,7 @@ function Footer() {
           GitHub
         </a>
         <a
-          href="https://linkedin.com/"
+          href="https://www.linkedin.com/in/parth-patel-19588b288/"
           target="_blank"
           rel="noreferrer"
           className="hover:text-indigo-400"
@@ -22,7 +22,7 @@ function Footer() {
           LinkedIn
         </a>
         <a
-          href="mailto:youremail@example.com"
+          href="mailto:pb2716@gmail.com"
           className="hover:text-indigo-400"
         >
           Email
